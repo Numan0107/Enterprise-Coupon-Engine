@@ -1,0 +1,6 @@
+@Enterprise_Coupon_Engine_HostAddress = http://localhost:5121
+
+GET {{Enterprise_Coupon_Engine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

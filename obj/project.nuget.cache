@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VqulqaXFHc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Numan\\Enterprise-Coupon-Engine\\Enterprise-Coupon-Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Numan\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\10.0.11\\microsoft.extensions.caching.stackexchangeredis.10.0.11.nupkg.sha512",
+    "C:\\Users\\Numan\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Numan\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512"
+  ],
+  "logs": []
+}
